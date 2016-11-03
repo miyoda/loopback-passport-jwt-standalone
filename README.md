@@ -113,6 +113,4 @@ loopback-passport-jwt/server/boot/passport-role-adminAuth.js
 
 
 ##TODO
-#####Config apikeys
-#####TEST google integration
-#####TEST instagram integration
+see TODO of https://github.com/miyoda/loopback-passport-jwt#readme
