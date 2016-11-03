@@ -1,0 +1,15 @@
+{
+  "ids": {
+    "Authuser": 2,
+    "Login": 3
+  },
+  "models": {
+    "Authuser": {
+      "1": "{\"facebookId\":\"10154103074925017\",\"facebookToken\":\"EAAMijvKnDXYBAHjE0wTC1aCC31PXd3NKZCVZB8CwFUtCcsEZB3BzIAxjyhOpZCZBNiHDLl1MmBMK8tUwCdSMdPtQosIkTzdNMaGZCy3BmaZCVu4tyYqfkXlas97frRZChnC1pmiSUUY41Rpr3xlArEL2bj3rlqvnAmIZD\",\"email\":\"miyomahc@gmail.com\",\"name\":\"Miguel Ángel Hernández Castro\",\"created\":\"2016-11-03T00:00:00.000Z\",\"photos\":[\"https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/995122_10151553840635017_505845500_n.jpg?oh=4e52a8841396276664ac10ad1fdba52c&oe=589CE6AA\"],\"id\":1}"
+    },
+    "Login": {
+      "1": "{\"date\":\"2016-11-03T00:00:00.000Z\",\"authuserId\":1,\"id\":1}",
+      "2": "{\"date\":\"2016-11-03T00:00:00.000Z\",\"authuserId\":1,\"id\":2}"
+    }
+  }
+}
